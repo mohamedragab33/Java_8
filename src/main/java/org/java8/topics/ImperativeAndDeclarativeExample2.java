@@ -2,7 +2,6 @@ package org.java8.topics;
 
 import java.util.*;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 public class ImperativeAndDeclarativeExample2 {
     public static void main(String[] args) {
