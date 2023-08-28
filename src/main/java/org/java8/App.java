@@ -1,4 +1,4 @@
-package org.example;
+package org.java8;
 
 public class App 
 {
